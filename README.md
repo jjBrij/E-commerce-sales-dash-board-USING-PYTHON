@@ -48,7 +48,15 @@ This project analyzes customer-related data to extract insights using Python and
 - Exploratory Data Analysis (EDA)
 - Visual insights using charts and plots
 
-![Alt Text](images/plot1.png)
+![Alt Text](https://github.com/jjBrij/E-commerce-sales-dash-board-USING-PYTHON/blob/main/newplot.png)
+
+
+
+![Alt Text](https://github.com/jjBrij/E-commerce-sales-dash-board-USING-PYTHON/blob/main/newplot%20(1).png)
+
+![Alt Text](https://github.com/jjBrij/E-commerce-sales-dash-board-USING-PYTHON/blob/main/newplot%20(2).png)
+![Alt Text](https://github.com/jjBrij/E-commerce-sales-dash-board-USING-PYTHON/blob/main/newplot%20(3).png)
+
 
 
 
